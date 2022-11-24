@@ -1,9 +1,9 @@
 ## Purpose 
--------
+
 This repository contains an analysis of Economic Connectedness, that was done in the context of the university course: **Applied Machine Learning**. 
 
 ## Tools and Packages 
------
+
 The analysis was executed on [Jupyter](https://jupyter.org/).
 
 ## Additional packages required for the project to run are: 
@@ -30,7 +30,7 @@ The data used can be found in the ``data`` folder.
     * Running the jupyter notebook, you will find detailed description-documentation.
 
 ## How to Run 
--------
+
 1. Clone the project: Execute the command ``https://github.com/e-panourgia/economic_connectedness_analysis_visualizations.git``
 2. **Unzip** folder ``t8190130_Assignment_1st.7z``.
 2. Move into the folder ``t8190130_Assignment_1st``. 
